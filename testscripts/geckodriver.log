@@ -1,0 +1,566 @@
+1548240843179	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548240843187	geckodriver	INFO	Listening on 127.0.0.1:10517
+1548240846238	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.RX001zdYcczF"
+1548240847465	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548240848468	Marionette	INFO	Enabled via --marionette
+[Child 7696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548240852617	Marionette	INFO	Listening on port 10526
+1548240853584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548240853647	Marionette	DEBUG	Register listener.js for window 6442450945
+1548240853680	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548240854835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548240854835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548240856394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548240856411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+[Parent 7592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548240927304	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548240927311	geckodriver	INFO	Listening on 127.0.0.1:10725
+1548240930414	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9f1cQpPZE6ln"
+1548240930600	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548240931171	Marionette	INFO	Enabled via --marionette
+1548240932792	Marionette	INFO	Listening on port 10738
+1548240933543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548240933601	Marionette	DEBUG	Register listener.js for window 6442450945
+1548240933651	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548240934653	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548240934653	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548240935319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548240935463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548241085008	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548241085016	geckodriver	INFO	Listening on 127.0.0.1:10901
+1548241088133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6fVZu8QMz9dH"
+1548241088346	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548241088799	Marionette	INFO	Enabled via --marionette
+[Parent 10896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548241090664	Marionette	INFO	Listening on port 10911
+1548241091252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548241091293	Marionette	DEBUG	Register listener.js for window 4294967297
+1548241362747	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548241362754	geckodriver	INFO	Listening on 127.0.0.1:11126
+1548241365877	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XR2WrflkYqih"
+1548241366079	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548241366581	Marionette	INFO	Enabled via --marionette
+[Child 3156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548241368192	Marionette	INFO	Listening on port 11135
+1548241368989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548241369026	Marionette	DEBUG	Register listener.js for window 4294967297
+1548241390959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548241393146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548241393146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548241393682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548241396667	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(12BC5C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18BE7800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18C04800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18E81400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(195EC800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(19EA4400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1B9CCC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1B9D6400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1BD13C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1BD88000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1D172800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1D64CC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1D657C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1D73A800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1D743400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E02E000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E1E2400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E1EB000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E1EFC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E885000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E889800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E88CC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1E890C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(15405000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1540D000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1B9D3400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1BD19400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1DE37C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1DE3C800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1DE3E400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1DE44000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28027C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2802D400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28030C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28034C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28AC3C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(195EB400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28AC9C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28C23400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28ACD800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(28C2A400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(15409800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(29303400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(29306C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2930A800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2930DC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299A3000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299A6800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299A9C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299AD000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299B1800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(299AD400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A3BFC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A3C3800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A3C6C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A694C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A694400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A69B800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A69F000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2A6A2800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2AE8C800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2AE90000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2AE93400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2AE96C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B2C9C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B2CD800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B2D1000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B2D4800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B9C9400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B9CCC00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B9D1400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B9D4000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2B9D7C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2BE17000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2BE1A800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2BE1E000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2BE21C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2C31A800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2C31E000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2C324800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2C328000)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(2C5D4C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(12BC3C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18BE9800)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18C05400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(18E79C00)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(194A7400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(19D76400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1B9CA400)::ForceLoseContext
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj_cdn101/pp_index_dl_112d94f2ff3e8ffc5ff4fb12014a3463.js, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(1B923400)::ForceLoseContext
+1548313464627	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548313464633	geckodriver	INFO	Listening on 127.0.0.1:14350
+1548313467733	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.urfTBZaz85LQ"
+1548313468060	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548313468550	Marionette	INFO	Enabled via --marionette
+[Parent 10896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548313470505	Marionette	INFO	Listening on port 14366
+1548313470854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548313470894	Marionette	DEBUG	Register listener.js for window 4294967297
+1548313753306	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548313755133	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548313755133	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548313755781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548313755941	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548313803663	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548313803673	geckodriver	INFO	Listening on 127.0.0.1:1174
+1548313806772	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.e3PW4fye4l63"
+1548313806964	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548313807470	Marionette	INFO	Enabled via --marionette
+[Child 13960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548313809034	Marionette	INFO	Listening on port 1188
+1548313809900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548313809956	Marionette	DEBUG	Register listener.js for window 4294967297
+1548313809979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548313811255	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548313811255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548313811698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548313811869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548313860655	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 9724] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nd: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Kk8luJsBR1n6"
+1548313881431	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548313882038	Marionette	INFO	Enabled via --marionette
+[Child 9896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548313883676	Marionette	INFO	Listening on port 1472
+1548313884360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548313884399	Marionette	DEBUG	Register listener.js for window 6442450945
+1548313884427	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548313885569	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548313885569	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548313886270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548313886414	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+[Parent 8724] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8724] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548387017947	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548387017955	geckodriver	INFO	Listening on 127.0.0.1:14174
+1548387021090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HjAoXGU77pDX"
+1548387021316	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548387021837	Marionette	INFO	Enabled via --marionette
+[Parent 16772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548387023515	Marionette	INFO	Listening on port 14189
+1548387024214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548387024264	Marionette	DEBUG	Register listener.js for window 4294967297
+1548387076551	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548387078584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548387078584	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548387080196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548387080312	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548388569388	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548388569395	geckodriver	INFO	Listening on 127.0.0.1:3417
+1548388572495	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iCbI4brnU170"
+1548388572686	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548388573255	Marionette	INFO	Enabled via --marionette
+[Child 15796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548388574896	Marionette	INFO	Listening on port 3438
+1548388575610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548388575658	Marionette	DEBUG	Register listener.js for window 6442450945
+1548388575684	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548388582143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548388582143	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548388587548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548388593153	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+[Parent 17152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548388940798	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548388940809	geckodriver	INFO	Listening on 127.0.0.1:4304
+1548388943884	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wiAo9C7O65ji"
+1548388944080	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548388944643	Marionette	INFO	Enabled via --marionette
+[Child 19064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548388946225	Marionette	INFO	Listening on port 4316
+1548388947003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548388947041	Marionette	DEBUG	Register listener.js for window 4294967297
+1548388947114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548388950234	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548388950234	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548388952709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548388957761	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+[Child 18780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548397201631	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548397201638	geckodriver	INFO	Listening on 127.0.0.1:4466
+1548397204696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lEPBxkdk8AUT"
+1548397204899	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548397205476	Marionette	INFO	Enabled via --marionette
+[Child 17940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548397207178	Marionette	INFO	Listening on port 4479
+1548397207816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548397207862	Marionette	DEBUG	Register listener.js for window 6442450945
+1548397238847	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548397240507	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548397240507	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548397242019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548397242876	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548397516358	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548397516373	geckodriver	INFO	Listening on 127.0.0.1:5059
+1548397519448	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Yrp9v4tTNGK1"
+1548397519643	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548397520162	Marionette	INFO	Enabled via --marionette
+[Child 12844] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12844] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548397521738	Marionette	INFO	Listening on port 5072
+1548397522586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548397522637	Marionette	DEBUG	Register listener.js for window 4294967297
+1548397522666	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548397524146	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548397524146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548397524781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548397524946	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+[Parent 13508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13508] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18608] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4967297
+1548399702224	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548399702241	geckodriver	INFO	Listening on 127.0.0.1:9274
+1548399705307	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.sSpsZw51tfVm"
+1548399705506	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548399706005	Marionette	INFO	Enabled via --marionette
+[Child 17744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548399707723	Marionette	INFO	Listening on port 9288
+1548399708423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548399708464	Marionette	DEBUG	Register listener.js for window 4294967297
+1548399746501	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548399748087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548399748087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548399749771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548399750034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548400235202	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548400235208	geckodriver	INFO	Listening on 127.0.0.1:10432
+1548400238304	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Q63IIkwTZZFF"
+1548400238504	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548400239024	Marionette	INFO	Enabled via --marionette
+[Child 18804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548400240921	Marionette	INFO	Listening on port 10447
+1548400241419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548400241462	Marionette	DEBUG	Register listener.js for window 4294967297
+1548400252863	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548400255758	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548400255758	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548400257367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.126.com/"
+1548400257496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.126.com/"
+1548406331234	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548406331240	geckodriver	INFO	Listening on 127.0.0.1:11626
+1548406334305	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kRqh7VBnK52g"
+1548406334968	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548406335584	Marionette	INFO	Enabled via --marionette
+[Parent 22112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548406337850	Marionette	INFO	Listening on port 11652
+1548406337939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548406337980	Marionette	DEBUG	Register listener.js for window 4294967297
+1548406338107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548406338886	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548406338887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548406339838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/"
+1548406367482	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/"
+1548406373703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 22112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11520] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548406505380	Marionette	INFO	Enabled via --marionette
+[Parent 9880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548406508396	Marionette	INFO	Listening on port 12234
+1548406508707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548406508781	Marionette	DEBUG	Register listener.js for window 4294967297
+1548406508869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548406509180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548406509180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548406510204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/"
+1548406538321	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/"
+1548406543953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1548406666708	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1548406666714	geckodriver	INFO	Listening on 127.0.0.1:12761
+1548406669817	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wgp9W29kuzkA"
+1548406670004	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548406670507	Marionette	INFO	Enabled via --marionette
+[Child 3980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548406672147	Marionette	INFO	Listening on port 12774
+1548406672949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548406672997	Marionette	DEBUG	Register listener.js for window 6442450945
+1548406673122	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548406673744	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548406673745	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548406675662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/"
+1548406703363	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/"
+1548406709395	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+[Parent 20104] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20104] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1548410095274	Marionette	INFO	Enabled via --marionette
+[Parent 16544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1548410097226	Marionette	INFO	Listening on port 6640
+1548410097687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548410097747	Marionette	DEBUG	Register listener.js for window 4294967297
+1548410097858	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1548410098429	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1548410098429	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1548410099321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/"
+1548410127125	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/"
+1548410133414	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mail.chiefclouds.com/"
+1548410133708	Marionette	DEBUG	Received DOM event "pagehide" for "https://mail.chiefclouds.com/"
+1548410133709	Marionette	DEBUG	Received DOM event "unload" for "https://mail.chiefclouds.com/"
+1548410133725	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/cgi-bin/login"
+1548410133727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/cgi-bin/login"
+1548410133734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1548410133734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1548410136232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.chiefclouds.com/cgi-bin/frame_html?sid=jf1aVRnInUAKETtn,2&r=ff462ae6206f2bd6f0f3e3776b11f6d3"
+1548410136519	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.chiefclouds.com/cgi-bin/frame_html?sid=jf1aVRnInUAKETtn,2&r=ff462ae6206f2bd6f0f3e3776b11f6d3"
+JavaScript warning: https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/compose4291e5.js, line 5765: unreachable code after return statement
+[Parent 16544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
